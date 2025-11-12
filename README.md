@@ -1,2 +1,24 @@
-# sky-hopper-game
-Sky Hopper is a simple, retro-style endless flyer where you hop through the skies, collect coins, and travel miles to unlock new characters, power-ups, and environments.
+# Sky Hopper
+
+A lightweight endless hopping prototype made with HTML5 Canvas and JavaScript.
+
+**Gameplay**
+- Tap or press Space to hop.
+- Collect coins and avoid obstacles.
+- Power-ups like Magnet and Shield appear early to help new players.
+- Coins increase in value every 500 score.
+- Distractions (birds and planes) appear after 1500 score to raise difficulty.
+- Progress, best score, and achievements are saved locally.
+
+**Play now:**  
+👉 [Sky Hopper on GitHub Pages](https://jamieheiden.github.io/sky-hopper-game/)
+
+**Features**
+- Pixel-style visuals  
+- Local autosave system  
+- Responsive for mobile and desktop  
+- Simple one-button control  
+
+---
+
+Made by Jamie Heiden.
